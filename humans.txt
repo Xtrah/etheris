@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Xtrah -- xtrah.net
+
+# THANKS
+    
+    The GT group :)
+
+# TECHNOLOGY COLOPHON
+    
+    CSS3, HTML5
+    jQuery, Modernizr, Normalize.css, VincentGarreau/particles.js
